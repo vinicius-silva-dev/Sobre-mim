@@ -1,5 +1,8 @@
+# Desenvolvedor Full Stak
+
 ### Olá, meu nome é Vinicius Silva Souza 👋
-Estudante de programação FullStak, Técnico em Administração e pai do Luiz Miguel, sou natural de Suzano-SP. No inicio de 2020, iniciei minha carreira na área de TI, quando fui chamado para trabalhar no departamento de TI. Minha função era dar suporte aos usuarios internos da empresa, nas horas de menor demanda de serviço eu estudadva Javascript, Node.js e Vue.js. Tenho como prioridade a evolução constante para reslver problemas do mundo real e facilitar o trabalho das pessoas, para isso vou utilizar diversas tecnologias como Javascript, Node.js, SQL, Vue.js, Next.js e Git.
+
+Estudante de programação Full Stak, Técnico em Administração e pai do Luiz Miguel, sou natural de Suzano-SP. No inicio de 2020, iniciei minha carreira na área de TI, quando fui chamado para trabalhar no departamento de TI. Minha função era dar suporte aos usuarios internos da empresa, nas horas de menor demanda de serviço eu estudadva Javascript, Node.js e Vue.js. Tenho como prioridade a evolução constante para reslver problemas do mundo real e facilitar o trabalho das pessoas, para isso vou utilizar diversas tecnologias como Javascript, Node.js, SQL, Vue.js, Next.js e Git.
 
 - 📚 Estudante de **programação Full Stak**
 - 👥 Em busca de oportunidades, trabalho em equipe, resolver problemas com eficiência e com as melhores tecnologias do mercado
